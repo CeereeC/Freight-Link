@@ -1,0 +1,50 @@
+.dashB {
+  background-color: #fdcb5c;
+  text-align: center;
+}
+
+/* Login */
+.containerLogin {
+  text-align: center;
+}
+
+.drop {
+  margin: 0 auto;
+  position: relative;
+}
+
+.accord {
+  text-align: center;
+}
+.yellow_background {
+  background-color: #fdcb5c;
+}
+
+.ChatBox {
+  text-align: center;
+}
+.ChatBox > div > input {
+  margin-bottom: 1em;
+}
+.chat-window {
+  margin: 0 auto;
+}
+
+.finalContract > div {
+  width: 300px;
+  padding-bottom: 1em;
+  margin: 0 auto;
+  text-align: left;
+}
+
+@font-face {
+  font-family: "HurufoNumeroBold";
+  src: local("HurufoNumeroBold"),
+    url("../fonts/Hurufo/HurufoNumeroBold.ttf") format("truetype");
+  font-weight: bold;
+}
+@font-face {
+  font-family: "HurufoNumeroThin";
+  src: local("HurufoNumeroThin"),
+    url("../fonts/Hurufo/HurufoNumeroThin.ttf") format("truetype");
+}
