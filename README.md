@@ -11,5 +11,18 @@ In this system, freight containers and vehicles are tokenized and exchanged on a
 
 The chat feature was built using Socket.io and the Blockchain Network hosted on the [Xooa Blockchain Asset Management API](https://api.xooa.com/explorer/#!/Asset_Management/Asset_Create).
 
+Built over 2 Days using ReactJS, MongoDB    
 [App Prototype](https://sheltered-sierra-76503.herokuapp.com/#/)
-Built over 2 Days using ReactJS, MongoDB
+
+
+<div align="center">
+    <img src="https://github.com/CeereeC/Freight-Link/blob/main/img/Login.gif" alt="Login" >
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github.com/CeereeC/Freight-Link/blob/main/img/App_Demo.gif" alt="App_Demo" >
+</div>
+
+
