@@ -14,10 +14,18 @@ The chat feature was built using Socket.io and the Blockchain Network hosted on 
 Built in 2 Days using ReactJS, MongoDB    
 [App Prototype](https://sheltered-sierra-76503.herokuapp.com/#/)
 
-
 <div align="center">
     <img src="https://github.com/CeereeC/Freight-Link/blob/main/img/Login.gif" alt="Login" >
 </div>
+
+<br/>
+
+### Credentials
+
+| Credentials   | NinjaVan Haulier | DHL Haulier | NinjaVan Admin | DHL Admin |
+| ------------- | ---------------- | ----------- | -------------- | --------- |
+| Company ID    | 01               | 02          | 03             | 04        |
+| Personnel ID  | 123              | 123         | 123            | 123       |
 
 <br/>
 
